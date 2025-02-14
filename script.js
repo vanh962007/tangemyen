@@ -1,14 +1,14 @@
 const messages = [
-   "Chị Chắc Chưa?",
-    "Chị Chắc Chắn Chưa??",
-    "Chị Có Chắc Chắn Chưa?",
+   "Em Yến Chắc Chưa?",
+    "Em Yến Chắc Chắn Chưa??",
+    "Hỏi Lại Lần Nữa Là Chắc Chắn Chưa?",
     "100% Chưa?.",
-    "Chị Nghĩ Kĩ Lại Đi",
-    "Chị Từ Chối Em Sẽ Rất Buồn Đó",
-    "Em Sẽ Đau Lòng Lắm",
-    "Em Sẽ Rất Rất Rất Buồn Đó",
-    "Được Rồi Em Sẽ Ngừng Nói",
-    "Em Đùa Thôi , Chị Đồng Ý Đi Mà! ❤️"
+    "Em Yến Nghĩ Kĩ Lại Đi",
+    "Em Yến Từ Chối Tôi Sẽ Rất Buồn Đó",
+    "Tôi Sẽ Đau Lòng Lắm",
+    "Tôi Sẽ Rất Rất Rất Buồn Đó",
+    "Được Rồi Tôi Sẽ Ngừng Nói",
+    "Tôi Đùa Thôi , Em Yến Đồng Ý Đi Mà! ❤️"
 ];
 
 let messageIndex = 0;
